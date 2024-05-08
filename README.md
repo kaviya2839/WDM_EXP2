@@ -2,15 +2,13 @@
 ## Date:
 
 ## Aim:	
-           To Find the Association Rules for Buying dataset.
+To Find the Association Rules for Buying dataset.
 
 ## Description:
-
 In data mining, association rule learning is a popular and well researched method for discovering interesting relations between variables in large databases. It can be described as analyzing and presenting strong rules discovered in databases using different measures of interestingness. In market basket analysis association rules are used and they are also employed in many application areas including Web usage mining, intrusion detection and bioinformatics.
 Creation of Buying Table:
 
 ## Procedure:
-
 1)Open Start  Programs  Accessories  Notepad
 2)Type the following training data set with the help of Notepad for Buying Table.
 ```
@@ -45,7 +43,6 @@ G40,high,yes,excellent,yes
 8)Click on edit button which shows buying table on weka.
 
 ## Procedure for Association Rules:
-
 1)Open Start  Programs  Weka-3-4  Weka-3-4
 2)Open explorer.
 3)Click on open file and select buying.arff
@@ -54,14 +51,12 @@ G40,high,yes,excellent,yes
 6)Click on Start button and output will be displayed on the right side of the window.
 
 ## Output:
-
 Training Data Set  Buying Table
 !<img src="https://github.com/kavyasenthamarai/WDM_EXP2/assets/118668727/f3fc9dd4-8e7e-418b-aa64-ea63f9cbfc25" width="500" height="300" />
 
 !<img src="https://github.com/kavyasenthamarai/WDM_EXP2/assets/118668727/cb2f3ba6-7448-4c7b-b16b-d90ca34d20cd" width="500" height="300" />
 
 ## Result:
-
 Thus this program has been successfully executed.
 
 
@@ -75,15 +70,13 @@ Thus this program has been successfully executed.
 ## Ex.No.2B					Association Rules For Banking Dataset
 
 ## Aim:	  
-            To Find the Association Rules for Banking dataset.
+To Find the Association Rules for Banking dataset.
 
 ## Description:
-
 In data mining, association rule learning is a popular and well researched method for discovering interesting relations between variables in large databases. It can be described as analyzing and presenting strong rules discovered in databases using different measures of interestingness. In market basket analysis association rules are used and they are also employed in many application areas including Web usage mining, intrusion detection and bioinformatics.
 Creation of Banking Table:
 
 Procedure:
-
 1)Open Start  Programs  Accessories  Notepad
 2)Type the following training data set with the help of Notepad for Banking Table. 
 ```
@@ -118,7 +111,6 @@ female,0115,sbh,pdtr,no
 8)Click on edit button which shows banking table on weka.
 
 ## Procedure for Association Rules:
-
 1)Open Start  Programs  Weka-3-4  Weka-3-4
 2)Open explorer.
 3)Click on open file and select bank.arff
@@ -129,11 +121,9 @@ female,0115,sbh,pdtr,no
 ## Output:
 ## Training Data Set  Banking Table
 !<img src="https://github.com/kavyasenthamarai/WDM_EXP2/assets/118668727/81663f00-b8a3-49a1-8940-de404be37778" width="500" height="300" />
-
 !<img src="https://github.com/kavyasenthamarai/WDM_EXP2/assets/118668727/bfdb9760-ad26-44e8-abd5-3bc140c73536" width="500" height="300" />
 
 ## Result:
-
 Thus this program has been successfully executed.
 
 
@@ -144,7 +134,7 @@ Thus this program has been successfully executed.
 ## Ex.No.2C				Association Rules for Employee dataset
 
 ## Aim:  
-            To Find the Association Rules for Employee data.
+To Find the Association Rules for Employee data.
 
 ## Description:
 
@@ -181,7 +171,6 @@ middle, high, B
 8)Click on edit button which shows employee table on weka.
 
 ## Procedure for Association Rules:
-
 1)Open Start  Programs  Weka-3-4  Weka-3-4
 2)Open explorer.
 3)Click on open file and select employee-1.arff
@@ -194,7 +183,5 @@ middle, high, B
 !<img src="https://github.com/kavyasenthamarai/WDM_EXP2/assets/118668727/1caf7ad9-ff97-417c-b60d-5acd2d23bdb3" width="500" height="300" />
 !<img src="https://github.com/kavyasenthamarai/WDM_EXP2/assets/118668727/9769a9cc-c161-4f98-a5ca-4c6b59ee8c29" width="500" height="300" />
 
-
 ## Result:
-
 Thus this program has been successfully executed.
